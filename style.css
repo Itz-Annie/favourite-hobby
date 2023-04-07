@@ -1,0 +1,48 @@
+#img1{
+    width: 450px;
+    height: 300px;
+    border-radius: 50px;
+}
+#img1:hover{
+    transform: scale(1.5);
+}
+#mail{
+    font-size: 30px;
+}
+body{
+   background-image: linear-gradient(blue, pink);
+}
+
+h1{
+    font-size: 40px;
+   font-family: 'Delicious Handrawn', cursive;
+    font-weight: 20px;
+}
+
+.imfo{
+  font-size: 30px;
+    font-family: 'Fasthand', cursive;
+}
+
+ul{
+    list-style: none;
+    position: fixed;
+    background-color: black;
+    top: 20px;
+    right: 15px;
+    color: white;
+}
+
+li{
+    float: left;
+    padding: 10px;
+    font-size: 18px;
+    cursor: pointer;
+    font-family: 'Delicious Handrawn', cursive;
+
+}
+
+li:hover{
+    background-color: red;
+    font-size: 24px;
+}
